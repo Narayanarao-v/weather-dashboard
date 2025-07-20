@@ -18,19 +18,31 @@ This is a full-stack Weather Dashboard web application built using **Spring Boot
 - Git & GitHub
 
 ## 📁 Project Structure
-src
-└── main
-├── java
-│ └── com.weatherdashboard
-│ ├── WeatherDashboardApplication.java
-│ ├── controller
-│ │ └── WeatherController.java
-│ └── model
-│ └── WeatherResponse.java
-└── resources
-├── static
-│ └── dashboard.html
-└── application.properties
+weather-dashboard/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── weatherdashboard/
+│       │           ├── controller/
+│       │           │   └── WeatherController.java
+│       │           ├── service/
+│       │           │   └── WeatherService.java
+│       │           ├── model/
+│       │           │   └── WeatherResponse.java
+│       │           └── WeatherDashboardApplication.java
+│       └── resources/
+│           ├── static/
+│           │   ├── dashboard.html
+│           │   ├── css/
+│           │   │   └── style.css         # Optional: if using custom CSS
+│           │   ├── js/
+│           │   │   └── script.js         # Optional: if using JavaScript
+│           ├── application.properties
+├── .gitignore
+├── README.md
+├── pom.xml
+
 
 ## 🔑 API Key
 ```properties
