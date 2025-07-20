@@ -53,7 +53,7 @@ Output Screenshot
 •	Shown working at: http://localhost:8086/dashboard.html
 •	Input: City Name
 •	Output: Weather, Temperature
-
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 
 
