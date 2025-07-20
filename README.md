@@ -54,6 +54,8 @@ Output Screenshot
 •	Input: City Name
 •	Output: Weather, Temperature
 
+https://github.com/Narayanarao-v/weather-dashboard/issues/1#issue-3246129371
+
 
 
 
