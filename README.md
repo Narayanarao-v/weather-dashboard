@@ -35,9 +35,9 @@ weather-dashboard/
 │           ├── static/
 │           │   ├── dashboard.html
 │           │   ├── css/
-│           │   │   └── style.css         # Optional: if using custom CSS
+│           │   │   └── style.css         
 │           │   ├── js/
-│           │   │   └── script.js         # Optional: if using JavaScript
+│           │   │   └── script.js         
 │           ├── application.properties
 ├── .gitignore
 ├── README.md
@@ -47,3 +47,15 @@ weather-dashboard/
 ## 🔑 API Key
 ```properties
 openweathermap.api.key=67876ec343d0e9b88b653974c8430b82
+
+
+Output Screenshot
+•	Shown working at: http://localhost:8086/dashboard.html
+•	Input: City Name
+•	Output: Weather, Temperature
+
+
+
+
+
+
